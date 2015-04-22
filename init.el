@@ -70,7 +70,6 @@
 (when *emacs24*
   (require 'init-org)
   (require 'init-org-mime))
-;; (require 'init-css)
 (require 'init-python-mode)
 (require 'init-haskell)
 ;; (require 'init-ruby-mode)

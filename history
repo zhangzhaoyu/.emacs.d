@@ -7,7 +7,12 @@
 (setq minibuffer-history '("backup-by-copying" "set-variable" "backup-by-copying" "set-variable" "backup-by-copying" "set-variable" "/usr/bin/python -i " "/usr/bin/python test.py" "/usr/bin/python -ipython test	" "/usr/bin/python -i" "/usr/bin/python -i python"))
 (setq search-ring '("pip" "compan" "comple" "auto"))
 (setq regexp-search-ring 'nil)
-(setq kill-ring '(#("
+(setq kill-ring '("Transfer)。
+                        " "s               " "Transfer)转换。                           " "
+" "	
+ " "." "同时也会杀死后台线程。
+
+    " #("
 print(\"helloxx world\")
 print(\"hello zhang\")
 print(\"test\")

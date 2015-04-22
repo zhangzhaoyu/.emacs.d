@@ -1,0 +1,9 @@
+;;; Automatically generated on Wed Apr 22 15:55:42 2015
+;;; Invoked by zhaoyu@zhangzhaoyu using 24.3.1
+(setq-default session-file-alist '(("~/Documents/document/computer_network_note" 961 nil 1 nil nil 961 (overwrite-mode)) ("~/Project/bash/vpn.sh" 13 nil 1 nil nil 13 (overwrite-mode)) ("~/github_home/java_concurrency/doc/java_concurrency.note" 832 nil 1 nil nil 832 (overwrite-mode)) ("~/Project/git_blog/zhangzhaoyu.github.io/index.html" 98 nil 1 nil nil 98 (overwrite-mode))))
+(setq-default file-name-history '("~/Documents/document/computer_network_note" "~/Project/bash/vpn.sh" "~/github_home/java_concurrency/doc/java_concurrency.note" "~/Anicloud/anicel2/anicel/.git/MERGE_MSG" "~/github_home/.gitignore" "~/github_home/recommendation_sys/source_code/Based_User.py" "~/examples.desktop" "~/Project/git_blog/zhangzhaoyu.github.io/index.html" "~/Project/git_blog/zhangzhaoyu.github.io/.gitignore"))
+(setq-default search-ring '("pip" "compan" "comple" "auto"))
+(setq-default ido-file-history '("hello.py~" "hellos.py"))
+(setq-default minibuffer-history '("backup-by-copying" "set-variable" "/usr/bin/python -i " "/usr/bin/python test.py" "/usr/bin/python -ipython test	" "/usr/bin/python -i" "/usr/bin/python -i python"))
+(setq-default occur-collect-regexp-history '("\\1"))
+(setq-default set-variable-value-history '("t" "nil"))
